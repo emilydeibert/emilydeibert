@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emilydeibert
+- 👋 Hi, I’m @emilydeibert (she/her)
 - 👀 I’m interested in high-resolution spectroscopy of exoplanet atmospheres
 - 🌱 I’m currently working as a Gemini Science Fellow at the Gemini South Observatory in La Serena, Chile
 - 📫 You can reach me at emily.deibert@noirlab.edu
